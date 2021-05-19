@@ -1,0 +1,10 @@
+ipython
+jupyter
+geopy
+folium
+numpy
+pandas
+requests
+beautifulsoup4
+matplotlib
+scikit-learn
